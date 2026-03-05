@@ -1,0 +1,94 @@
+{
+    "name": "Figma Mock Document",
+    "lastModified": "2026-03-05T00:00:00Z",
+    "version": "1.0",
+    "document": {
+        "id": "0:0",
+        "name": "Document",
+        "type": "DOCUMENT",
+        "absoluteBoundingBox": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+        },
+        "children": [
+            {
+                "id": "0:1",
+                "name": "Page 1",
+                "type": "CANVAS",
+                "absoluteBoundingBox": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                },
+                "children": [
+                    {
+                        "id": "1:2",
+                        "name": "HookScene",
+                        "type": "FRAME",
+                        "absoluteBoundingBox": {
+                            "x": 0,
+                            "y": 0,
+                            "width": 1080,
+                            "height": 1920
+                        },
+                        "fills": [
+                            {
+                                "type": "SOLID",
+                                "color": {
+                                    "r": 0.1,
+                                    "g": 0.1,
+                                    "b": 0.1,
+                                    "a": 1
+                                }
+                            }
+                        ],
+                        "children": [
+                            {
+                                "id": "1:3",
+                                "name": "title_text",
+                                "type": "TEXT",
+                                "characters": "Why AI Matters to Creators",
+                                "absoluteBoundingBox": {
+                                    "x": 100,
+                                    "y": 200,
+                                    "width": 880,
+                                    "height": 150
+                                },
+                                "style": {
+                                    "fontFamily": "Inter",
+                                    "fontSize": 96,
+                                    "fontWeight": 700
+                                },
+                                "fills": [
+                                    {
+                                        "type": "SOLID",
+                                        "color": {
+                                            "r": 1,
+                                            "g": 0.5,
+                                            "b": 0.2,
+                                            "a": 1
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "1:4",
+                                "name": "irrelevant_layer",
+                                "type": "RECTANGLE",
+                                "absoluteBoundingBox": {
+                                    "x": 0,
+                                    "y": 0,
+                                    "width": 100,
+                                    "height": 100
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
